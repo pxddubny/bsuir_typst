@@ -1,1 +1,7 @@
 *.pdf
+
+examples/course_work/mymain.typ
+examples/course_work/mytitle.typ
+examples/course_work/mybibliography.bib
+
+examples/course_work/myimg/
